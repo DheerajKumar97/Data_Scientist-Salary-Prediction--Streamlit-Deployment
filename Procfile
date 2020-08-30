@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run ds_salary_prediction_app.py
